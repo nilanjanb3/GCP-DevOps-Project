@@ -1,3 +1,3 @@
 # GCP-DevOps-Project
 
-hello world !
+hello world 
